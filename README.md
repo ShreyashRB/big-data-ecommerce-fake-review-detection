@@ -21,10 +21,8 @@ To run the Jupyter Notebooks, you will need to have Python and Jupyter installed
 2.Install dependencies:
 It is recommended to install the required libraries using pip.
 
-3.
-Prepare the data:
+3.Prepare the data:
 The notebooks expect the first10kreviewsall_beauty.jsonl and first10kmetaall_beauty.jsonl datasets to be available at https://amazon-reviews-2023.github.io/  Please adjust the REVIEWS_PATH and META_PATH variables in the notebooks if your data is located elsewhere.
 
-4.
-Run Jupyter Notebook:
+4.Run Jupyter Notebook:
 
